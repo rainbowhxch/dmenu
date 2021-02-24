@@ -1,0 +1,86 @@
+[
+ {
+  "directory": "/home/ch/.config/dmenu",
+  "arguments": [
+   "cc",
+   "-c",
+   "-std=c99",
+   "-pedantic",
+   "-Wall",
+   "-Os",
+   "-I/usr/X11R6/include",
+   "-I/usr/include/freetype2",
+   "-D_DEFAULT_SOURCE",
+   "-D_BSD_SOURCE",
+   "-D_XOPEN_SOURCE=700",
+   "-D_POSIX_C_SOURCE=200809L",
+   "-DVERSION=\"5.0\"",
+   "-DXINERAMA",
+   "dmenu.c"
+  ],
+  "file": "dmenu.c"
+ },
+ {
+  "directory": "/home/ch/.config/dmenu",
+  "arguments": [
+   "cc",
+   "-c",
+   "-std=c99",
+   "-pedantic",
+   "-Wall",
+   "-Os",
+   "-I/usr/X11R6/include",
+   "-I/usr/include/freetype2",
+   "-D_DEFAULT_SOURCE",
+   "-D_BSD_SOURCE",
+   "-D_XOPEN_SOURCE=700",
+   "-D_POSIX_C_SOURCE=200809L",
+   "-DVERSION=\"5.0\"",
+   "-DXINERAMA",
+   "drw.c"
+  ],
+  "file": "drw.c"
+ },
+ {
+  "directory": "/home/ch/.config/dmenu",
+  "arguments": [
+   "cc",
+   "-c",
+   "-std=c99",
+   "-pedantic",
+   "-Wall",
+   "-Os",
+   "-I/usr/X11R6/include",
+   "-I/usr/include/freetype2",
+   "-D_DEFAULT_SOURCE",
+   "-D_BSD_SOURCE",
+   "-D_XOPEN_SOURCE=700",
+   "-D_POSIX_C_SOURCE=200809L",
+   "-DVERSION=\"5.0\"",
+   "-DXINERAMA",
+   "util.c"
+  ],
+  "file": "util.c"
+ },
+ {
+  "directory": "/home/ch/.config/dmenu",
+  "arguments": [
+   "cc",
+   "-c",
+   "-std=c99",
+   "-pedantic",
+   "-Wall",
+   "-Os",
+   "-I/usr/X11R6/include",
+   "-I/usr/include/freetype2",
+   "-D_DEFAULT_SOURCE",
+   "-D_BSD_SOURCE",
+   "-D_XOPEN_SOURCE=700",
+   "-D_POSIX_C_SOURCE=200809L",
+   "-DVERSION=\"5.0\"",
+   "-DXINERAMA",
+   "stest.c"
+  ],
+  "file": "stest.c"
+ }
+]
